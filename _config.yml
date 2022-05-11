@@ -1,1 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - akash-network-analysis-coinhall.md
+  - secret-network-analysis-coinhall.md
+
 theme: jekyll-theme-cayman
