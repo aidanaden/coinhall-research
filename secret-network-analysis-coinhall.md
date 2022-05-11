@@ -4,6 +4,8 @@
 
 Secret Network is a blockchain-based, open-source protocol that lets anyone perform computations on encrypted data, bringing privacy to smart contracts and public blockchains.
 
+Supports smart contract development and introduces data privacy by default for these contracts, enabling developers to build decentralized applications that also protect user data and preserve privacy.
+
 ## What's in their ecosystem?
 
 - **Exchanges**:
