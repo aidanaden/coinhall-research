@@ -1,7 +1,16 @@
 # THORChain
 
+## Main Considerations
+1. Bond breakdown -- Unable to determine. Explorers dont seem to show breakdown, discord does not seem to indicate that there are any foundation helping validators stay in the active set, most of them got in early when rune was cheap(er) and have a large portion of delegations.
+2. Last and median reward -- 44.00505, 192.64433 RUNE (@ $4/RUNE) -> 176 - 768 USD
+3. Validator POC -- Not really, community asks the other validators/thornode devs,
+4. **Dealbreaker** -- Median/Last validator reward is ~~garbage~~ very low. The requirement of a full node needing to run a node in every other chain appears to be true, just to observe what transactions are taking place there.
+5. **Recommendation** -- Does not seem at all worth considering the rewards alone, dealbreaker just makes it worse imo.
+
+---
+
 ## Get to know (TLDR/One-liners)
-- Enables the exchange of any(*) native L1 assets by acting as a vault manager -- this means that there is no need to wrap assets. It uses the LPs to perform swaps of the specified assets.
+- Enables the exchange of any(\*) native L1 assets by acting as a vault manager -- this means that there is no need to wrap assets. It uses the LPs to perform swaps of the specified assets.
 - "Like Uniswap, but multi-chain".
 
 ## What's in their ecosystem?
