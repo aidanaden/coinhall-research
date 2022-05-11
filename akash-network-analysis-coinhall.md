@@ -83,7 +83,7 @@ View [here](https://akash.network/roadmap)
 
 ### Considerations to be Node Operator
 
-- Capital: In order to become an **active** validator, you must be within the active set (top 100) + have more stake than the [last active validator](https://www.mintscan.io/akash/validators) (current bottom validator: 8,951 self-bonded + delegated = 23.8K USD @ 2.66/SCRT)
+- Capital: In order to become an **active** validator, you must be within the active set (top 100) + have more stake than the [last active validator](https://www.mintscan.io/akash/validators) (current bottom validator: 20,471 self-bonded + delegated = 11K USD @ 0.54/AKT)
 - Minimum H/W requirements:
   - CPU - 4 Core
   - Memory - 8 GB

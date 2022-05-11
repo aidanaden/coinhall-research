@@ -106,7 +106,7 @@ View [here](https://ik.imagekit.io/secretnetwork/images/Roadmap_may2022_569bd2c6
 
 ### Considerations to be Node Operator
 
-- Capital: In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/secret/validators) (current bottom validator: 19,158 self-bonded + delegated = 12.4k USD @ 0.65/AKT)
+- Capital: In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/secret/validators) (current bottom validator: 19,402 self-bonded + delegated = 47.5k USD @ 2.45/SCRT)
 - Requirements:
   - Ubuntu/Debian host (with ZFS or LVM to be able to add more storage easily)
   - A public IP address
