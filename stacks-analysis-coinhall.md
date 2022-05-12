@@ -15,8 +15,8 @@ Essentially, consensus mechanism (POX) relies on bitcoin chain where miners win 
 ## What's in their ecosystem?
 
 - **Exchanges**:
-  - [Alex](https://app.alexlab.co/swap) - Top DEX, includes launchpad (15M TVL, 2.4M 24H volume)
-  - [Arkadiko](https://app.arkadiko.finance/) - DEX, creator of USDA stablecoin (7M TVL, 500K 24H volume)
+  - [Alex](https://app.alexlab.co/swap) - Top DEX, includes launchpad (15M TVL, 2.4M 7D volume)
+  - [Arkadiko](https://app.arkadiko.finance/) - DEX, creator of USDA stablecoin (7M TVL, 2.6M 7D volume)
   - [LN Swap](https://www.lnswap.org/) - Native swaps between stacks and btc, no stats provided
   - [Stackswap](https://app.stackswap.org/v2/) - DEX, includes launchpad (1.5M TVL, no volume provided)
 - **Block explorers**:
