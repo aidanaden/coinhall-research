@@ -1,10 +1,21 @@
 ﻿# Secret Network
 
+## Main Considerations
+
+1. Bond breakdown -- Unable to determine. Explorers dont seem to show breakdown, discord does not seem to indicate that there are any foundation helping validators stay in the active set, most of them got in early BUT have very little self-bonded SCRT stake so may have to ask POC if foundation contributes. (note: no minimum self-bonding amt, validator calculator [here](https://www.securesecrets.org/validatorcalculator))
+2. Staking costs:
+   - Minimum: 343 SCRT delegated, ~705 USD @ 2.05 USD/SCRT
+   - Median (middle guy): 1,155,007 SCRT delegated, 2.36M @ 2.05 USD/SCRT
+3. Staking profits (5% comission of 23% APR):
+   - Minimum: 8 USD
+   - Median: 27K USD
+4. Validator POC -- no replies on discord so far, can try contacting them in their [telegram](https://t.me/SCRTcommunity)
+5. **Dealbreaker** -- Last validator reward is ~~garbage~~ very low, median validator rewards are quite good though but will depend on whether foundation is willing to contribute since it's quite a huge delegation amount (must enquire from their telegram group).
+6. **Recommendation** -- Not too sure about SCRT tokenomics, but if it's possible to get the funds delegated to our validator then it should be somewhat profitable, without foundation/external support, can't recommend it. Long term might be an attractive chain to build on since they have a strong unique value proposition (built-in privacy).
+
 ## Get to know (TLDR/One-liners)
 
 Secret Network is a blockchain-based, open-source protocol that lets anyone perform computations on encrypted data, bringing privacy to smart contracts and public blockchains.
-
-Supports smart contract development and introduces data privacy by default for these contracts, enabling developers to build decentralized applications that also protect user data and preserve privacy.
 
 ## What's in their ecosystem?
 
@@ -106,7 +117,7 @@ View [here](https://ik.imagekit.io/secretnetwork/images/Roadmap_may2022_569bd2c6
 
 ### Considerations to be Node Operator
 
-- Capital: In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/secret/validators) (current bottom validator: 19,402 self-bonded + delegated = 47.5k USD @ 2.45/SCRT)
+- Capital: In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/secret/validators) (current bottom validator: 19,158 self-bonded + delegated)
 - Requirements:
   - Ubuntu/Debian host (with ZFS or LVM to be able to add more storage easily)
   - A public IP address

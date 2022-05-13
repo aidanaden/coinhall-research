@@ -1,5 +1,18 @@
 ﻿# Akash Network
 
+## Main Considerations
+
+1. Bond breakdown -- Unable to determine. Explorers dont seem to show breakdown, discord does not seem to indicate that there are any foundation helping validators stay in the active set, most of them got in early BUT have very little self-bonded AKT stake so may have to ask POC if foundation contributes. (note: no minimum self-bonding amt)
+2. Staking costs:
+   - Minimum: 41,990 AKT delegated, ~16.8K USD @ 0.4 USD/AKT
+   - Median (middle guy): 804,595 AKT delegated, ~322K @ 0.4 USD/AKT
+3. Staking profits (10% comission of 32% APR):
+   - Minimum: 537 USD
+   - Median: 10.3K USD
+4. Validator POC -- discord @ Alani I Akash#4366
+5. **Dealbreaker** -- Last validator reward is ~~garbage~~ very low, median validator rewards are decent though(?) but will depend on whether foundation is willing to contribute (must enquire from POC).
+6. **Recommendation** -- After taking AKT tokenomics into consideration I wouldn't really recommend but may be somewhat viable short term if foundation is willing to contribute + really desperate.
+
 ## Get to know (TLDR/One-liners)
 
 Akash is an [**open source**](https://github.com/ovrclk/akash) Cloud platform that lets you quickly deploy a Docker container to the Cloud provider of your choice for less than the cost of AWS, right from the [**command-line**](https://docs.akash.network/guides/cli).
@@ -83,7 +96,7 @@ View [here](https://akash.network/roadmap)
 
 ### Considerations to be Node Operator
 
-- Capital: In order to become an **active** validator, you must be within the active set (top 100) + have more stake than the [last active validator](https://www.mintscan.io/akash/validators) (current bottom validator: 20,471 self-bonded + delegated = 11K USD @ 0.54/AKT)
+- Capital: In order to become an **active** validator, you must be within the active set (top 100) + have more stake than the [last active validator](https://www.mintscan.io/akash/validators) (current bottom validator: 8,951 self-bonded + delegated)
 - Minimum H/W requirements:
   - CPU - 4 Core
   - Memory - 8 GB
