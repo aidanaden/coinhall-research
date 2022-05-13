@@ -28,7 +28,7 @@ Well-suited to financial smart contracts representing significant real-world val
   - [FlameDEX](https://app.flamedex.io/) - DEX on Tezos
   - [Plenty DEFI](https://www.plentydefi.com/farms) - DEX on Tezos (5-6 fig TVL)
   - [Spicy Swap](https://spicyswap.xyz/#/) - DEX on Tezos (200K TVL)
-  - [Vortex Network](https://app.vortex.network/) - DEX on Tezos (unreliable, loads forever)
+  - [Vortex Network](https://app.vortex.network/) - DEX on Tezos (2.9M TVL, 1.1M DEX TVL, 1.7M FARM TVL, 50K 24H volume)
   - [QuipuSwap](https://quipuswap.com/farming) - DEX on Tezos (380K TVL)
 
 - **Block explorers**:
