@@ -2,7 +2,7 @@
 
 ## Main Considerations
 
-1. Bond breakdown -- Unable to determine. Explorers dont show breakdown AND doesn't show APR either (had to find from https://www.stakingrewards.com/earn/tezos/).
+1. Bond breakdown -- Unable to determine. Explorers dont show breakdown AND doesn't show APR either (had to find from [stakingrewards](https://www.stakingrewards.com/earn/tezos/)).
 2. Staking costs:
    - Minimum: 12.2K XTZ staked, ~23K USD @ 1.9 USD/XTZ
    - Median (middle guy): 235K XTZ delegated, ~445K @ 1.9 USD/XTZ

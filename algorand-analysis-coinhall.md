@@ -4,7 +4,7 @@
 
 1. Bond breakdown -- N.A.
 2. Staking costs: N.A.
-3. Staking profits: None (participation rewards of 2.68%, governance rewards of 7.6% from https://www.stakingrewards.com/earn/algorand/)
+3. Staking profits: None (participation rewards of 2.68%, governance rewards of 7.6% from [stakingrewards](https://www.stakingrewards.com/earn/algorand/))
 4. Validator POC -- N.A. (since no profit from running validator node)
 5. **Dealbreaker** -- No validator rewards, strong competition from existing charting analyics sites
 6. **Recommendation** -- Can consider launching a DEX aggregator competitor with charting included (current DEX aggregator isn't good, high TVLs across the board, decent chance of getting grant since defi is a vertical the algorand foundation are interested in funding)
