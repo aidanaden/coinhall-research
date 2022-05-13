@@ -11,3 +11,5 @@ Repository of research documents/data compiled by summer 2022 interns
 - [Akash network](https://aidanaden.github.io/coinhall-research/akash-network-analysis-coinhall.html)
 - [NEAR Protocol](https://aidanaden.github.io/coinhall-research/near-protocol-analysis-coinhall.html)
 - [Stacks](https://aidanaden.github.io/coinhall-research/stacks-analysis-coinhall.html)
+- [Tezos](https://aidanaden.github.io/coinhall-research/tezos-analysis-coinhall.html)
+- [Algorand](https://aidanaden.github.io/coinhall-research/algorand-analysis-coinhall.html)
