@@ -66,3 +66,4 @@ Essentially, consensus mechanism (POX) relies on bitcoin chain where miners win 
 - [Stacks accelerator program](https://stacks.ac/)
 - [Stacks official docs](https://docs.scrt.network/)
 - [Stacks developer docs](https://docs.hiro.so/intro)
+- [Clarity docs](https://docs.stacks.co/write-smart-contracts/overview)
