@@ -24,7 +24,6 @@ Note: vast majority of their DEXes and analytics tools are very well designed
 
 - **Exchanges**:
 
-  - [DFYN](https://exchange.dfyn.network/) - DEX (9M liquidity, 2M 24H volume)
   - [AlgoFI](https://app.algofi.org/) - DEX (14.5M TVL, 3.6M 24H volume, 31.3M 7D volume)
   - [Tinyman](https://app.tinyman.org/) - Largest DEX on algorand (21M liquidity, 3.6M 24H volume)
   - [AlgoDEX](https://app.algodex.com/trade/31566704) - DEX using order-book (order book stored on-chain, 106K 7D volume)
