@@ -2,7 +2,7 @@
 
 ## Main Considerations
 1. Bond breakdown -- Medium article for the "Sifchain Validator Delegation Program" states 10000 ROWAN, top validator only has 100 self-bonded, lowest only has 1, the rest are delegated.
-2. Last and median reward -- 5308.8, 133333.3 ROWAN (@ $0.08/ROWAN) -> 424.70 - 10666.66 USD, rates gotten from stakingrewards' validator APR which seems high.
+2. Last and median reward -- 5308.8, 133333.3 ROWAN (@ $0.08/ROWAN, 10% commission) -> 42.47 - 1066.66 USD, rates gotten from stakingrewards' validator APR which seems high.
 3. Validator POC -- None that I've seen publicly, but they do have a delegator program.
 4. **Recommendation** -- If we have enough self-bonded, it appears to be a low-hanging fruit to generate income considering that the median reward is ~10k USD at current prices.
 
