@@ -13,3 +13,5 @@ Repository of research documents/data compiled by summer 2022 interns
 - [Stacks](https://aidanaden.github.io/coinhall-research/stacks-analysis-coinhall.html)
 - [Tezos](https://aidanaden.github.io/coinhall-research/tezos-analysis-coinhall.html)
 - [Algorand](https://aidanaden.github.io/coinhall-research/algorand-analysis-coinhall.html)
+- [Junø](https://aidanaden.github.io/coinhall-research/juno-anaylsis-coinhall.html)
+
