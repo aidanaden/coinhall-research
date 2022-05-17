@@ -36,8 +36,8 @@
     - Delegation rounds are announced occurs every 6 months (check Discord/Telegram), next round on 1st July, evaluation occurs 2 weeks prior -- mid-June).
   - Prioritised based on a score in a delegation [criteria](https://docs.junonetwork.io/validators/official-delegations-handbook#official-delegation-criteria), giving high prio to development on chain (dapp/contract/tooling), active participation, and development of main codebase (those are the highest few in the list).
   - `juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3` seems to be the "foundation"'s wallet.
-    - Sampled from the top 15 - 125 validators, interval of 10. Stated address has the 2nd highest frequency of 9 and has a high value.
-    - Data folder: [`juno-vals`](https://github.com/aidanaden/coinhall-research/tree/master/juno-vals)
+    - Sampled from the top 125 validators, (1 to 15, followed by intervals of 10). Stated address has the 7th highest frequency at 16 and has a high value (>12M JUNO).
+    - Data folder: [`juno-vals`](https://github.com/aidanaden/coinhall-research/tree/master/juno-vals) to see the raw and filtered data.
 
 ## Market Opportunity
 

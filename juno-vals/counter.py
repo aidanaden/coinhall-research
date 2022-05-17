@@ -1,7 +1,7 @@
 from collections import OrderedDict
 
 addr_dictionary = {}
-df = open("/Users/yusuf/proj/coinhall-research/juno-vals/delegator_address.csv")
+df = open("/Users/yusuf/proj/coinhall-research/juno-vals/delegator_address_w_top15.csv")
 
 for line in df:
     if line in addr_dictionary:
