@@ -21,6 +21,12 @@
 - NFT: [Passage3D Market](https://market.passage3d.com/)
 - Other: [(de)NS](https://dens.sh/)
 - Tooling: [JunoTools](https://juno.tools/)
+  - API:
+    - Mainnet:
+      - Itastakers: [RPC](https://rpc-juno.itastakers.com/), [LCD](https://lcd-juno.itastakers.com/)
+      - Omniflix: [RPC](https://rpc.juno.omniflix.co/), [LCD](https://api.juno.omniflix.co/)
+    - Testnet:
+      - JunoNetwork: [RPC](https://rpc.uni.junonetwork.io/), [LCD](https://api.uni.junonetwork.io/)
 
 ## Grants/Funding
 
