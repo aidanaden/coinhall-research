@@ -27,10 +27,7 @@
       - Omniflix: [RPC](https://rpc.juno.omniflix.co/), [LCD](https://api.juno.omniflix.co/)
     - Testnet:
       - JunoNetwork: [RPC](https://rpc.uni.junonetwork.io/), [LCD](https://api.uni.junonetwork.io/)
-    - Websock details:
-      - rpc_addr = 'http://127.0.0.1:26657'
-      - grpc_addr = 'http://127.0.0.1:29090'
-      - websocket_addr = 'ws://127.0.0.1:26657/websocket'
+    - Websock details ([refer to me](https://docs.junonetwork.io/validators/relayers/hermes#configuring-hermes) -- we need our own validator first)
 
 ## Grants/Funding
 
