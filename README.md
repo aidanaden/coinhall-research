@@ -15,3 +15,6 @@ Repository of research documents/data compiled by summer 2022 interns
 - [Algorand](https://aidanaden.github.io/coinhall-research/algorand-analysis-coinhall.html)
 - [Junø](https://aidanaden.github.io/coinhall-research/juno-anaylsis-coinhall.html)
 
+## Pipeline Research
+- [Kafka-GCP](https://aidanaden.github.io/coinhall-research/pipeline-research/kafka-gcp-writeup.html)
+- [Kafka cluster (redundancy)](https://aidanaden.github.io/coinhall-research/pipeline-research/kafka-replication.html)
