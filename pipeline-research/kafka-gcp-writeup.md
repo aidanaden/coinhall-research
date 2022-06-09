@@ -41,7 +41,7 @@
 | Deployment | - Cloud (Confluent)
 - On-premise | - Cloud |
 | Message 
-delivery | At least once | Exactly once |
+delivery (default) | At least once | Exactly once |
 | Message flow | Offset increments, 
 message remains  | Message deleted on acknowledgement |
 | Message order | Within partitions / same key | Within topics |
@@ -51,6 +51,11 @@ More information can be found [here](https://cloud.google.com/architecture/migra
 ## Dev
 
 1. Migration from Kafka to Pub/Sub ([link](https://cloud.google.com/architecture/migrating-from-kafka-to-pubsub)).
-2. Pub/Sub Client ([Node.js](https://cloud.google.com/nodejs/docs/reference/pubsub/latest)) — not sure if it works with pub/sub lite.
-3. [Pub/Sub Lite library](https://cloud.google.com/pubsub/lite/docs/reference/libraries) (Go/Java/Python)
-4. Pub/Sub Lite API ([REST](https://cloud.google.com/pubsub/lite/docs/reference/rest))([RPC](https://cloud.google.com/pubsub/lite/docs/reference/rpc))
+2. KafkaJS manual committing for exactly-once semantics (EOS) ([link](https://kafka.js.org/docs/consuming#manual-committing)).
+    1. [Java example](https://www.baeldung.com/kafka-exactly-once).
+    2. librdkafka - C/C++ Kafka client to support EOS ([link](https://github.com/edenhill/librdkafka)).
+    3. Blizzard’s Node.js wrap on librdkafka ([link](https://github.com/Blizzard/node-rdkafka)).
+3. Pub/Sub Client ([Node.js](https://cloud.google.com/nodejs/docs/reference/pubsub/latest)) — not sure if it works with pub/sub lite.
+4. [Pub/Sub Lite library](https://cloud.google.com/pubsub/lite/docs/reference/libraries) (Go/Java/Python)
+5. Pub/Sub Lite API ([REST](https://cloud.google.com/pubsub/lite/docs/reference/rest))([RPC](https://cloud.google.com/pubsub/lite/docs/reference/rpc))
+
