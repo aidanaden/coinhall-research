@@ -25,25 +25,18 @@
 
 |  | Pub/Sub | Pub/Sub Lite |
 | --- | --- | --- |
-| Price [1] | ~$2000/month | - Zonal: ~$169/month
-- Regional: ~$608/month |
-| Reliability | Highest | - Zonal: Best effort
-- Regional: Similar SLA to normal Pub/Sub |
+| Price [1] | ~$2000/month | - Zonal: ~$169/month <br> - Regional: ~$608/month |
+| Reliability | Highest | - Zonal: Best effort <br> - Regional: Similar SLA to normal Pub/Sub |
 | Resources | Managed | Pre-provisioned |
-| Data replication | - ≥ 2 zones
-- Best effort 3rd additional zone | - Zonal: No replication
-- Regional: Async backup to 2nd zone |
+| Data replication | - ≥ 2 zones <br> - Best effort 3rd additional zone | - Zonal: No replication <br> - Regional: Async backup to 2nd zone |
 
 ## Kafka vs Pub/Sub
 
 |  | Kafka | Pub/Sub (Lite) |
 | --- | --- | --- |
-| Deployment | - Cloud (Confluent)
-- On-premise | - Cloud |
-| Message 
-delivery (default) | At least once | Exactly once |
-| Message flow | Offset increments, 
-message remains  | Message deleted on acknowledgement |
+| Deployment | - Cloud (Confluent) <br> - On-premise (current) | - Cloud |
+| Message <br> delivery (default) | At least once | Exactly once |
+| Message flow | Offset increments, <br> message remains  | Message deleted on acknowledgement |
 | Message order | Within partitions / same key | Within topics |
 
 More information can be found [here](https://cloud.google.com/architecture/migrating-from-kafka-to-pubsub#comparing_features).
