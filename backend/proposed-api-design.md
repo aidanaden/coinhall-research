@@ -93,7 +93,7 @@ Returns pairs data based on query parameters sorted by mcap desc (similar to gec
   ];
   ```
 
-## Historical Prices API (`/dashboard` and `/charts`)
+## Historical Prices API (`/dashboard` and `/charts`) note: endpoint highly similar to Latest Prices API
 
 ### Current
 
@@ -203,28 +203,3 @@ Returns candle data for chart page
 ### Proposed
 
 Rename API endpoint to `/api/v1/charts/:chain_name/candles` where `chain_name` is the name of the chain where the pair address is on
-
-## Latest Prices API (`/dashboard` and `/charts`)
-
-### Current
-
-Returns latest prices from ALL chains (terra classic and terra v2, 984 total)
-
-- Method: `GET`
-- URL: `/api/charts/terra/prices/latest`
-
-**Example**:
-
-`api/charts/terra/prices/latest`
-
-**Success response**:
-
-- Condition: if everything is OK
-- Code: `200 OK`
-- Content (example):
-  ```js
-  {
-    terra1rg9p352hcepvclfrxptpk0ua7a0tz4gcc0f0p8: 0.0013513513513513514,
-    // ...
-  };
-  ```
