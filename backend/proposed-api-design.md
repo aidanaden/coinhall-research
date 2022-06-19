@@ -55,11 +55,11 @@ Returns pairs data based on query parameters sorted by mcap desc (similar to gec
 
 `/api/v2/pairs?chains=Terra+Classic%2CTerra+2.0&verified=true&start=0&limit=120`
 
-- Returns first 120 verified pairs from selected chains (120 is 5 dashboard pages or 1 pairs page)
+- Returns first 120 verified pairs from Terra Classic and Terra 2.0 (120 is 5 dashboard pages or 1 pairs page)
 
 `/api/v2/pairs?chains=Terra+Classic%2CTerra+2.0&name=classic`
 
-- Returns first 120 verified pairs from selected chains that contains the word `classic` in their name (120 is 5 dashboard pages or 1 pairs page)
+- Returns first 120 verified pairs from Terra Classic and Terra 2.0 that contains the word `classic` in their name (120 is 5 dashboard pages or 1 pairs page)
 
 **Success response**:
 
