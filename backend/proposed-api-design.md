@@ -128,7 +128,7 @@ Returns historical prices from ALL chains (terra classic and terra v2, 984 total
 
 ### Proposed
 
-Move to store prices in pairs API
+Move to store historical and latest prices in pairs API
 
 ## Latest Prices API (`/dashboard` and `/charts`)
 
